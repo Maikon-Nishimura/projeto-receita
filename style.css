@@ -27,6 +27,8 @@ body{
 
 img {
 border-radius: 16px;
+  display: block; 
+  margin: 0 auto;
 }
 
 main{
