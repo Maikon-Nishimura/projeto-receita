@@ -26,11 +26,15 @@ body{
 }
 
 img {
-border-radius: 16px;
+  border-radius: 16px;
+  display: block;   
+  margin: 0 auto;    
+  max-width: 100%;   
 }
 
 main{
   padding: 24px;
+  
 }
 
 section + section {
