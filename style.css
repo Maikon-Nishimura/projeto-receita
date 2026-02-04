@@ -33,11 +33,11 @@ body {
 
 img {
   border-radius: 16px;
- 
-  max-width: 100%; 
+  width: 100%; 
   height: auto; 
   display: block; 
-  margin: 0 auto; 
+  margin-bottom: 24px;  
+  object-fit: cover; 
 }
 
 main {
